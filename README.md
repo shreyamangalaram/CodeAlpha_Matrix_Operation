@@ -123,6 +123,6 @@ Learning Outcomes:
 
 Author:
 
-**Shreya Mangalaram**
+Shreya Mangalaram
 
 CodeAlpha Internship – C Programming
